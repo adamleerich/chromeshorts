@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "chromeshorts",
+    "description": "Shortcuts for websites",
+    "version": "0.0",
+
+    "icons": {
+        "16": "imgs/shorts16.png",
+        "32": "imgs/shorts32.png",
+        "48": "imgs/shorts48.png",
+        "128": "imgs/shorts128.png"
+    }
+}
+
